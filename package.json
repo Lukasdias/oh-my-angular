@@ -1,5 +1,5 @@
 {
-  "name": "learning-signals",
+  "name": "oh-my-angular",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -7,7 +7,7 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "serve:ssr:learning-signals": "node dist/learning-signals/server/server.mjs"
+    "serve:ssr:oh-my-angular": "node dist/oh-my-angular/server/server.mjs"
   },
   "prettier": {
     "printWidth": 100,

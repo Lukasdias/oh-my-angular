@@ -6,7 +6,7 @@
   },
   "newProjectRoot": "projects",
   "projects": {
-    "learning-signals": {
+    "oh-my-angular": {
       "projectType": "application",
       "schematics": {},
       "root": "",
@@ -61,10 +61,10 @@
           "builder": "@angular/build:dev-server",
           "configurations": {
             "production": {
-              "buildTarget": "learning-signals:build:production"
+              "buildTarget": "oh-my-angular:build:production"
             },
             "development": {
-              "buildTarget": "learning-signals:build:development"
+              "buildTarget": "oh-my-angular:build:development"
             }
           },
           "defaultConfiguration": "development"
